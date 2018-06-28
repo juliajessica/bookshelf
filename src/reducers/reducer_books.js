@@ -1,7 +1,9 @@
 export default function() {
   return [
-    { title: 'Hello world'},
-    { title: 'JavaScript'},
-    { title: 'Et Pray Love'},
-  ]
+    { title: 'How to Win Friends and Influence People'},
+    { title: 'The Sun and Her Flowers'},
+    { title: 'Eat Pray Love'},
+    { title: 'Milk and Honey'},
+    { title: 'Captivating'}
+  ];
 }

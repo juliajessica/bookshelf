@@ -5,4 +5,5 @@ const rootReducer = combineReducers({
   books: booksReducer
 });
 
+//books is the name we give our data array of books
 export default rootReducer;
